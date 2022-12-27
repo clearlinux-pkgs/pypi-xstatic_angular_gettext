@@ -4,7 +4,7 @@
 #
 Name     : pypi-xstatic_angular_gettext
 Version  : 2.4.1.0
-Release  : 4
+Release  : 5
 URL      : https://files.pythonhosted.org/packages/e7/ec/f3966281e7399e13d7077fde492af1fabfbb6d3718773b93ec976c475743/XStatic-Angular-Gettext-2.4.1.0.tar.gz
 Source0  : https://files.pythonhosted.org/packages/e7/ec/f3966281e7399e13d7077fde492af1fabfbb6d3718773b93ec976c475743/XStatic-Angular-Gettext-2.4.1.0.tar.gz
 Summary  : Angular-Gettext 2.4.1 (XStatic packaging standard)
@@ -59,7 +59,7 @@ export http_proxy=http://127.0.0.1:9/
 export https_proxy=http://127.0.0.1:9/
 export no_proxy=localhost,127.0.0.1,0.0.0.0
 export LANG=C.UTF-8
-export SOURCE_DATE_EPOCH=1671854193
+export SOURCE_DATE_EPOCH=1672119652
 export GCC_IGNORE_WERROR=1
 export AR=gcc-ar
 export RANLIB=gcc-ranlib
